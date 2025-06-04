@@ -1,5 +1,5 @@
 ---
-title: "Mangale Lopchan Portfolio"
+title: "Mangale Lopchan"
 ---
 
 # Mangale Lopchan

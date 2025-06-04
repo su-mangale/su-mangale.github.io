@@ -1,60 +1,44 @@
-# Su Mangale Portfolio (Hugo)
+# Mangale Portfolio & Blog (Markdown-Only, GitHub Pages)
 
-This is the source for Su Mangale's portfolio static site, built with [Hugo](https://gohugo.io/) and the [hello-friend-ng theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng).
+This is the source for Su Mangale's personal portfolio and blog, built using only Markdown files and GitHub Pages' built-in Jekyll support. No HTML, CSS, or static site generator is required.
 
-## Quick Start
+## How It Works
+- All content is written in Markdown (`.md`) files.
+- Blog posts are placed in the `_posts/` directory, following the format `YYYY-MM-DD-title.md`.
+- GitHub Pages automatically builds and publishes the site using Jekyll.
+- The default Jekyll theme is used (can be changed in repository settings if desired).
 
-1. **Install Hugo**
-   - See: https://gohugo.io/getting-started/installing/
+## Directory Structure
+```
+su-mangale.github.io/
+├── _posts/
+│   └── 2025-06-04-fluxcd-gitops-getting-started.md
+├── about.md
+├── index.md
+├── LICENSE
+└── README.md
+```
 
-2. **Add the hello-friend-ng theme**
-   ```bash
-   git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
-   ```
+## Adding Content
+- **Homepage:** Edit `index.md`.
+- **About page:** Edit `about.md`.
+- **Blog posts:** Add new markdown files to `_posts/` with the format `YYYY-MM-DD-title.md` and YAML front matter, e.g.:
+  ```markdown
+  ---
+  title: "My New Post"
+  date: 2025-06-04
+  ---
+  Your content here.
+  ```
 
-3. **Copy the example config**
-   ```bash
-   cp themes/hello-friend-ng/exampleSite/config.toml ./config.toml
-   ```
+## Publishing
+1. Commit and push your changes to the `main` branch of this repository.
+2. GitHub Pages will automatically build and publish your site at `https://<your-username>.github.io/`.
 
-4. **Customize your content**
-   - Edit `config.toml` for your name, social links, and site info.
-   - Add your content in the `content/` directory (e.g., `about.md`, `posts/`, etc).
-
-5. **Run locally**
-   ```bash
-   hugo server -D
-   ```
-   Visit http://localhost:1313
-
-6. **Build for GitHub Pages**
-   ```bash
-   hugo --minify
-   # The static site will be in the public/ directory
-   ```
-
-7. **Push to GitHub**
-   - Commit and push the `public/` directory to the `main` branch of your `su-mangale.github.io` repo.
-   - Enable GitHub Pages for the repo (set source to `/ (root)` or `/public` as needed).
+## Customization
+- You can change the Jekyll theme in the repository's GitHub Pages settings.
+- No HTML or CSS editing is required, but you can add customizations if desired.
 
 ---
 
-## Directory Structure
-
-```
-su-mangale.github.io/
-├── config.toml
-├── content/
-│   ├── _index.md
-│   ├── about.md
-│   └── posts/
-├── themes/
-│   └── hello-friend-ng/
-└── public/
-```
-
-## Customization
-- Update `config.toml` for your profile, social links, and theme options.
-- Add posts or pages in `content/` to share your DevOps, Kubernetes, FluxCD, Nutanix, Jenkins, and Git experiences.
-
-For more, see the [hello-friend-ng theme docs](https://github.com/rhazdon/hugo-theme-hello-friend-ng#readme).
+For more information, see the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) and [Jekyll documentation](https://jekyllrb.com/docs/).
