@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Home"
 ---
 
 **Kubernetes & DevOps Enthusiast**
@@ -19,4 +19,6 @@ DevOps enthusiast passionate about Kubernetes, cloud-native infrastructure, and 
 Certified Kubernetes Administrator (CKA) | RedHat & Nutanix Certified
 
 ---
+
+[Blog](blog.md)
 
