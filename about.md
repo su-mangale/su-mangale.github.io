@@ -2,15 +2,9 @@
 title: "About"
 ---
 
-# Mangale Lopchan
-
-📍 Kathmandu, Lalitpur  
-📞 +977 9813236510  
-✉️ lopchanmangal5@gmail.com  
 [LinkedIn](https://linkedin.com/in/mangal-lopchan)
 
 ---
-
 ## Professional Summary
 Passionate and motivated DevOps enthusiast with expertise in Private Cloud, Networking, and Infrastructure Deployment. Experienced in Nutanix Cloud, Red Hat solutions, Linux, and Kubernetes, with hands-on involvement in 10+ deployment projects. Strong troubleshooting skills and a continuous drive to learn and innovate in cloud and DevOps technologies.
 
@@ -38,18 +32,17 @@ Digital Network Solutions, Kathmandu, Nagpokhari
 - Deployed RedHat OpenShift Container Platform with integrated object storage and S2I workflows
 
 ## Certifications & Training
-- Certified Kubernetes Administrator – CKA
-- RedHat Certified Engineer – RHCE
-- RedHat Certified System Administrator – RHCSA
+- Certified Kubernetes Administrator
+- RedHat Certified Engineer
+- RedHat Certified System Administrator
 - RedHat Portfolio: Foundational
 - RedHat OpenShift Developer Training
 - RedHat Enterprise Linux Automation with Ansible Training
-- Nutanix Certified Associate – NCA
-- Nutanix Certified Professional – Multi Cloud Infrastructure – NCP-MCI
+- Nutanix Certified Associate
+- Nutanix Certified Professional – Multi Cloud Infrastructure
 - Nutanix Certified Professional – Multi Cloud Infrastructure Automation
 - Nutanix Certified Professional – Cloud Native
 - Nutanix Certified Master – Multi Cloud Infrastructure
-- Certified Kubernetes Administrator Training – CKA
 - Nutanix Kubernetes Platform Administration - Training
 - Oracle RAC 19C Database Administration – Training
 - Microsoft SQL Database Administration – Training
