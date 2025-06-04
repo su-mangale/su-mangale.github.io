@@ -2,20 +2,17 @@
 title: "About"
 ---
 
-# Mangale Lopchan
-
 **Kubernetes & DevOps Enthusiast**
 
 Kathmandu, Nepal  
-Follow me on linkedin !
-[linkedin.com/in/mangal-lopchan](https://linkedin.com/in/mangal-lopchan)  
-
+Follow me on linkedin!
+[linkedin.com/in/mangal-lopchan](https://linkedin.com/in/mangal-lopchan)
 
 ---
 
 DevOps enthusiast passionate about Kubernetes, cloud-native infrastructure, and automation. Experienced in:
 - Kubernetes (Nutanix, OpenShift, multi-cloud)
-- GitOps with Fluxcd & jenkins
+- GitOps with Fluxcd & Jenkins
 - Cloud & Private Data Center deployments
 - Linux, automation, CI/CD, and troubleshooting
 
