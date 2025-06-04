@@ -2,23 +2,21 @@
 title: "Home"
 ---
 
-**Kubernetes & DevOps Enthusiast**
+# 👋 Welcome, Fellow Cluster Admin!
 
-Kathmandu, Nepal  
-Follow me on linkedin!
-[linkedin.com/in/mangal-lopchan](https://linkedin.com/in/mangal-lopchan)
-
----
-
-DevOps enthusiast passionate about Kubernetes, cloud-native infrastructure, and automation. Experienced in:
-- Kubernetes (Nutanix, OpenShift, multi-cloud)
-- GitOps with Fluxcd & Jenkins
-- Cloud & Private Data Center deployments
-- Linux, automation, CI/CD, and troubleshooting
-
-Certified Kubernetes Administrator (CKA) | RedHat & Nutanix Certified
+> `kubectl get coffee`  
+> _Error: resource not found. Did you mean..._  
+> `kubectl get blog` or `kubectl get about`
 
 ---
 
-[Blog](blog.md)
+**Mangale Lopchan**  
+Kubernetes & DevOps Enthusiast
+
+- [☸️ Blog](blog.md)
+- [👤 About](about.md)
+
+---
+
+May your pods always be running and your CI always green!
 
