@@ -1,10 +1,4 @@
 ---
-title: "About"
----
-
-[LinkedIn](https://linkedin.com/in/mangal-lopchan)
-
----
 ## Professional Summary
 Passionate and motivated DevOps enthusiast with expertise in Private Cloud, Networking, and Infrastructure Deployment. Experienced in Nutanix Cloud, Red Hat solutions, Linux, and Kubernetes, with hands-on involvement in 10+ deployment projects. Strong troubleshooting skills and a continuous drive to learn and innovate in cloud and DevOps technologies.
 

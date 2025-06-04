@@ -1,7 +1,3 @@
----
-title: "Getting Started with FluxCD GitOps"
-date: 2025-06-04
----
 
 FluxCD is a powerful GitOps tool for Kubernetes that enables continuous and automated deployment of your workloads using Git as the source of truth. In this post, we'll cover the basics of setting up FluxCD and deploying your first application using GitOps principles.
 

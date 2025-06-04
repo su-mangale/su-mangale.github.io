@@ -1,4 +1,3 @@
-# Mangale Portfolio & Blog (Markdown-Only, GitHub Pages)
 
 This is the source for Su Mangale's personal portfolio and blog, built using only Markdown files and GitHub Pages' built-in Jekyll support. No HTML, CSS, or static site generator is required.
 

@@ -1,6 +1,3 @@
----
-title: "Mangale Lopchan"
----
 
 # Mangale Lopchan
 
