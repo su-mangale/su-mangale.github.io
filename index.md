@@ -2,15 +2,12 @@
 title: "Home"
 ---
 
-# 👋 Welcome, Fellow Cluster Admin!
+## 👋 Welcome, Fellow Cluster Admin!
 
 > `kubectl get coffee`  
 > _Error: resource not found. Did you mean..._  
 > `kubectl get blog` or `kubectl get about`
 
----
-
-**Mangale Lopchan**  
 Kubernetes & DevOps Enthusiast
 
 - [☸️ Blog](blog.md)
